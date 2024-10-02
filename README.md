@@ -1,4 +1,4 @@
-# cobapakaifigma1
+# State Management GetX untuk QuizApps  
 
 A new Flutter project.
 
